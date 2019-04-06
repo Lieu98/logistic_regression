@@ -1,0 +1,3 @@
+# logistic_regression
+logistic regression model using python and not using any library for the model.
+given is the sample dataset for the input please change it accordingly...
